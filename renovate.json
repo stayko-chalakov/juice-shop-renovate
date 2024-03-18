@@ -26,5 +26,8 @@
       "automerge": false
     }
   ],
-  "schedule": ["every weekday", "every weekend"]
+  "schedule": ["every weekday", "every weekend"],
+  "vulnerabilityAlerts": {
+    "enabled": true
+  }
 }
