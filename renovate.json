@@ -29,5 +29,6 @@
   "schedule": ["every weekday", "every weekend"],
   "vulnerabilityAlerts": {
     "enabled": true
-  }
+  },
+  "osvVulnerabilityAlerts": true
 }
