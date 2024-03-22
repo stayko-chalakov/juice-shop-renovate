@@ -28,7 +28,9 @@
   ],
   "schedule": ["every weekday", "every weekend"],
   "vulnerabilityAlerts": {
-    "enabled": true
+    "groupName": "Vulnerable Dependencies",
+    "enabled": true,
+    "prCreation": "immediate"
   },
   "osvVulnerabilityAlerts": true
 }
